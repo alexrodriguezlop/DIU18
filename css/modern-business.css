@@ -1,0 +1,197 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+ /*TAMAÑO BARRA NAVEGACIÓN*/
+ .navbar {
+ 	height: 125px;
+ }
+
+ /*HOVER BARRA NAVEGACIÓN*/
+ #navbarResponsive a:hover{
+ 	border-radius: 10px;
+ 	border: 2px solid white;
+ }
+
+ /*BORDE USUARIO E IDIOMA*/
+ .dropdown-toggle {
+ 	border-style: none;
+ }
+
+ /*TAMAÑO LOGO*/
+ #logo {
+ 	width: 300px;
+ 	height: 130px;
+	background-color: white;
+ }
+
+ /*TAMAÑO CAROUSEL*/
+ #carouselExampleIndicators {
+ 	width: 90%;
+ 	margin: auto;
+ 	margin-top: 50px;
+ 	margin-bottom: 100px;
+ }
+
+ /*HOVER CAROUSEL*/
+ .carousel-item img:hover {
+ 	border-style: solid;
+ 	border-color: black;
+ }
+
+ /*TAMAÑO Y BORDE CARD EVENTO*/
+ .card {
+ 	margin: auto;
+ 	width: 80%;
+ 	border-style: none;
+ 	background-color: white;
+ }
+
+ /*TAMAÑO IMAGEN CARD EVENTO*/
+ .card-body img {
+ 	width:200px;
+ 	height:300px;
+ }
+
+ /*HOVER IMAGEN CARD EVENTO*/
+ .card-body img:hover{
+ 	transform: scale(1.1);
+ 	position: fixed;
+ 	width:250px;
+ 	height:350;
+ }
+
+ /*BORDE CUADRO BÚSQUEDA*/
+ .input-group {
+ 	border-style: solid;
+ }
+
+ /*QUITAR ELEMENTOS CUADRO FECHA*/
+ input[type=date]::-webkit-inner-spin-button {
+ 	-webkit-appearance: none;
+ 	display: none;
+ }
+
+ button {
+ 	border-radius: 10px;
+ 	border: 2px solid white;
+ }
+
+ .page-link {
+ 	border-style: none;
+ }
+
+ .page-item:hover {
+ 	background-color: white;
+ 	color: black;
+ }
+
+ #precio {
+ 	border-radius: 10px;
+ 	border: 2px solid black;
+ 	display: inline-flex;
+ 	padding: 10px;
+ }
+
+ thead {
+ 	background-color: lightgrey;
+ 	border-style: solid;
+ 	border-color: black;
+ }
+
+ th {
+ 	border-style: solid;
+ }
+
+ td a{
+ 	color: black;
+ }
+
+ td a:hover {
+ 	color: black;
+ 	font-style: bold;
+ }
+
+ td:hover {
+ 	background-color: lightgrey;
+ 	font-weight: bold;
+ 	border-color: black;
+ }
+
+ li {
+ 	list-style: none;
+ 	display: inline-flex;
+ }
+
+ #accordion .nav-link {
+ 	color: white;
+ 	border-left: solid;
+ }
+
+ #accordion .nav-link:hover {
+ 	background-color: lightgrey;
+ 	color: black;
+ 	font-size: bold;
+ }
+
+ #accordion1 .nav-link {
+ 	color: white;
+ 	border-left: solid;
+ }
+
+ #accordion1 .nav-link:hover {
+ 	background-color: lightgrey;
+ 	color: black;
+ 	font-size: bold;
+ }
+
+ #accordion1 .col {
+ 	background-color: lightgrey;
+ }
+
+ #categoria a:hover {
+ 	background-color: lightgrey;
+ 	color: black;
+ }
+
+ .rating {
+ 	unicode-bidi: bidi-override;
+ 	direction: rtl;
+ }
+
+ .rating span {
+ 	display: inline-block;
+ 	position: relative;
+ 	width: 1.1em;
+ }
+ 
+ .rating span:hover:before,
+ .rating span:hover ~ span:before {
+ 	content: "\2605";
+ 	position: absolute;
+ 	color: yellow;
+ }
+
+ .dropdown-item:hover {
+ 	background-color: lightgrey;
+ }
+
+ /*Efecto miga de pan*/
+
+ #divMiga{
+	display:none;
+} 
+
+#categoria{
+	display:none;
+}
+
+#divMigaPan{
+	display:none;
+}
+
+/*Ocultación para simular búsqueda*/
+#contenidos{
+	display:none;
+}
