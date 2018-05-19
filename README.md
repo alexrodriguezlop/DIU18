@@ -22,8 +22,12 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 
-# (URL)[https://alexrodriguezlop.github.io/DIU18]
+# [URL](https://alexrodriguezlop.github.io/DIU18)
 
-# (Analisis de usabilidad SUS)[P4_UsabReport_ Yokesetio _doneby_A3_TheOriginals.pdf]
+# [Analisis de usabilidad SUS](P4_UsabReport_ Yokesetio _doneby_A3_TheOriginals.pdf)
+
+**Compañero de prácticas:** *[Juan Miguel Castro Guerrero]*
+
+**Grupo:** *A3.TheOriginals*
 
 
